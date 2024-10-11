@@ -30,3 +30,4 @@ equipment: dumbbells
 ## Images
 
 
+![](./../svg/0244-tension.svg "")
